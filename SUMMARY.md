@@ -2,6 +2,6 @@
 
 * [Welcome!](README.md)
 
-## courses
+## miscellaneous
 
-* [Стек протоколов TCP/IP](courses/stek-protokolov-tcp-ip.md)
+* [Page 1](miscellaneous/page-1.md)
